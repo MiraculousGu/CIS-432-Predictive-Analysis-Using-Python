@@ -1,0 +1,8 @@
+environ({'TMPDIR': '/var/folders/2p/w5q84sjj7_lbxldgz_w1kcg40000gn/T/', '__CFBundleIdentifier': 'com.apple.Terminal', 'XPC_FLAGS': '0x0', 'TERM': 'xterm-256color', 'SSH_AUTH_SOCK': '/private/tmp/com.apple.launchd.U2DiFIaayV/Listeners', 'XPC_SERVICE_NAME': '0', 'TERM_PROGRAM': 'Apple_Terminal', 'TERM_PROGRAM_VERSION': '440', 'TERM_SESSION_ID': '68128BC1-0247-42D8-96F5-7E22CE74C1B9', 'SHELL': '/bin/zsh', 'HOME': '/Users/t.g', 'LOGNAME': 't.g', 'USER': 't.g', 'PATH': '/Users/t.g/opt/anaconda3/envs/cis432/bin:/Users/t.g/opt/anaconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin', 'SHLVL': '1', 'PWD': '/Users/t.g/Tianrun/Rochester/Course/Spring A/CIS432 Predictive analytics using Python/HW/HW 1', 'OLDPWD': '/Users/t.g', 'CONDA_EXE': '/Users/t.g/opt/anaconda3/bin/conda', '_CE_M': '', '_CE_CONDA': '', 'CONDA_PYTHON_EXE': '/Users/t.g/opt/anaconda3/bin/python', 'CONDA_SHLVL': '2', 'CONDA_PREFIX': '/Users/t.g/opt/anaconda3/envs/cis432', 'CONDA_DEFAULT_ENV': 'cis432', 'CONDA_PROMPT_MODIFIER': '(cis432) ', 'CONDA_PREFIX_1': '/Users/t.g/opt/anaconda3', 'LANG': 'en_US.UTF-8', '_': '/Users/t.g/opt/anaconda3/envs/cis432/bin/python', 'KMP_DUPLICATE_LIB_OK': 'True', 'KMP_INIT_AT_FORK': 'FALSE'})
+uname:Darwin Tianrun.local 20.2.0 Darwin Kernel Version 20.2.0: Wed Dec  2 20:39:59 PST 2020; root:xnu-7195.60.75~1/RELEASE_X86_64 x86_64
+/bin/ls
+/usr/bin/grep
+/usr/bin/diff
+/Users/t.g/opt/anaconda3/envs/cis432/bin/spyder
+/Users/t.g/opt/anaconda3/envs/cis432/bin/ipython
+/Users/t.g/opt/anaconda3/envs/cis432/bin/jupyter
