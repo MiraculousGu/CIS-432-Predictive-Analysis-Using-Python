@@ -1,0 +1,8 @@
+digraph Tree {
+node [shape=box, style="filled", color="black"] ;
+0 [label="ExternalRiskEstimate <= 73.5\ngini = 0.499\nsamples = 5916\nvalue = [2835, 3081]", fillcolor="#eff7fd"] ;
+1 [label="gini = 0.412\nsamples = 3341\nvalue = [971, 2370]", fillcolor="#8ac5f0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.4\nsamples = 2575\nvalue = [1864, 711]", fillcolor="#efb185"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
